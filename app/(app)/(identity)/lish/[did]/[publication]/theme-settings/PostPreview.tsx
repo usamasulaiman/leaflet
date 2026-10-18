@@ -44,6 +44,7 @@ function makeFakeDocument(
     normalizedDocument: fakeNormalizedDocument,
     normalizedPublication: null,
     quotesAndMentions: [],
+    replyingTo: [],
     theme: null,
     prevNext: undefined,
     publication: publication || null,
